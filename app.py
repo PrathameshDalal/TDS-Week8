@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[ ]:
-
-
 import streamlit as st
 def find_largest(num1, num2, num3):
     return max(num1, num2, num3)
